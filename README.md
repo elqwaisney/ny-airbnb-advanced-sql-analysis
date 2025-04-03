@@ -42,14 +42,14 @@ The dataset comprises various details about Airbnb listings in New York City, in
 - **Top Busy Hosts' Listing Locations:** ![Mapping of Busiest Hosts' Listing Locations](https://github.com/user-attachments/assets/3a8540da-d915-492f-9402-d958599e2cb5)
 
 - **Neighborhood Popularity Distribution:** ![Popularity Distribution](https://github.com/user-attachments/assets/9116e8f8-4676-45c4-97f5-9083fc82d896)
+
 ![Neighborhood Popularity Mapping](https://github.com/user-attachments/assets/3e0777ea-b7ff-4dab-a01e-f5513b234ae5)
 
 - **Price-Demand Distribution:** ![Price and demand distribution map](https://github.com/user-attachments/assets/93d44e93-89d9-4e08-9778-d9802438acd9)
-Here's a version of the color mapping in bullet points, similar to a map legend:
 
-  - **High Price - High Demand:** Neon Green (`#39FF14`)
-  - **High Price - Low Demand:** White (`#FFFFFF`)
-  - **Low Price - High Demand:** greenish-yellow (`#B0FF00`)
+  - **High Price - High Demand:** Neon Green
+  - **High Price - Low Demand:** White
+  - **Low Price - High Demand:** greenish-yellow 
   - **Low Price - Low Demand:** Neon Red 
 
 
